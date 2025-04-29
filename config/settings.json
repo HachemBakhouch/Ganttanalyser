@@ -1,0 +1,26 @@
+﻿{
+    "default_excel_columns": {
+        "start_column": "A",
+        "end_column": "Z",
+        "profile_column": "E"
+    },
+    "default_rows": {
+        "start_row": 3,
+        "end_row": 1831
+    },
+    "export_settings": {
+        "default_format": "txt",
+        "default_directory": "~/Documents/WorkloadAnalysis"
+    },
+    "logging": {
+        "log_level": "INFO",
+        "log_file": "workload_analyzer.log"
+    },
+    "ui_preferences": {
+        "theme": "default",
+        "window_size": {
+            "width": 800,
+            "height": 600
+        }
+    }
+}

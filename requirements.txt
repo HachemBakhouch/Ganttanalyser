@@ -1,0 +1,14 @@
+﻿# Dépendances principales
+openpyxl==3.1.2
+reportlab==4.0.8
+pandas==2.2.1
+numpy>=1.22.0  # Dépendance de pandas
+
+# Développement et tests
+pytest==7.4.4
+mypy==1.8.0
+black==24.3.0
+flake8==7.0.0
+
+# Utilitaires
+typing-extensions==4.10.0
